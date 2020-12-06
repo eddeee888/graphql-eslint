@@ -1,5 +1,19 @@
 # @graphql-eslint/eslint-plugin
 
+## 0.5.0
+
+### Minor Changes
+
+- cb57bed: test release
+- cb57bed: Allow to load siblings operations
+- cb57bed: feature(processor): apply processor automatically on code files
+
+### Patch Changes
+
+- cb57bed: Better integration of siblings operations and graphql-config
+- cb57bed: fix(parser): better performance, make sure schema is loaded and cached
+- cb57bed: fix(parser): better support for graphql-config intergration and project detection
+
 ## 0.4.4
 
 ### Patch Changes
